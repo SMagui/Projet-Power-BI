@@ -25,13 +25,13 @@ Ce projet Power BI présente un tableau de bord interactif pour explorer les per
 
 ## 📊 Visualisations incluses
 
-- Carte des boutiques actives** en Europe
-- Répartition des ventes par type et statut de boutique**
-- Ventes par produit, catégorie et marque**
-- Nombre de produits et ventes par sous-catégorie**
-- Analyse du chiffre d'affaires par mois et par classe produit**
-- Taux de retour par produit**
-- Comparaison CA / CA de l'année précédente**
+- Carte des boutiques actives en Europe
+- Répartition des ventes par type et statut de boutique
+- Ventes par produit, catégorie et marque
+- Nombre de produits et ventes par sous-catégorie
+- Analyse du chiffre d'affaires par mois et par classe produit
+- Taux de retour par produit
+- Comparaison CA / CA de l'année précédente
 - Courbes de tendances mensuelles du CA et des ventes
 
 ---
