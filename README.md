@@ -41,4 +41,8 @@ Ce projet Power BI présente un tableau de bord interactif pour explorer les per
 - Projet Power BI.pbix — Fichier Power BI principal
 - Projet Power BI.pdf — Aperçu statique du tableau de bord
 
+## 📊Apercu des Visualisations 
+
+![Dashbord ](https://github.com/user-attachments/assets/56f0b62c-ab87-45b7-853a-e97839be04ee)
+
 
