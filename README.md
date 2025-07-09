@@ -46,5 +46,6 @@ Ce projet Power BI présente un tableau de bord interactif pour explorer les per
 Apercu de l'un des tableaux de bord 
 
 ![Dashbord ](https://github.com/user-attachments/assets/56f0b62c-ab87-45b7-853a-e97839be04ee)
+![image](https://github.com/user-attachments/assets/8a707562-07ed-407e-ad20-86201e1696a2)
 
 
